@@ -44,7 +44,7 @@ Essas ferramentas são essenciais para o desenvolvimento de aplicações escalá
 
 ---
 
-## 🏆 Objetivo do meus estudos
+## 🏆 Meus estudos com React.JS
 Ao longo deste repositório, irei continuar documentando os capítulos e aprofundando os estudos em React.js, cobrindo tópicos como:
 - Introdução ao react.js. ✅
 - Instalação de dependências. ✅
