@@ -47,10 +47,10 @@ Essas ferramentas são essenciais para o desenvolvimento de aplicações escalá
 ## 🏆 Objetivo do meus estudos
 Ao longo deste repositório, irei continuar documentando os capítulos e aprofundando os estudos em React.js, cobrindo tópicos como:
 - Introdução ao react.js. ✅
-- Instalação de Dependências. ✅
+- Instalação de dependências. ✅
 - Fundamentos do jsx
 - Componentização e props.
-- Gerenciamento de estado com Redux e Context API.
+- Gerenciamento de estado com redux e context API.
 - Efeitos colaterais com userEffect.
 - Rotas de navegação com react-route.
 - Context API para gerenciamento global de estado.
