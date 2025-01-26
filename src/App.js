@@ -2,7 +2,9 @@ import logo from "./logo.svg";
 import "./App.css";
 import Hello from "./header/Header.js";
 
+
 function App() {
+  const username = process.env.REACT_APP_USERNAME;
   return (
     <div className="App">
       <header className="App-header">
@@ -19,6 +21,7 @@ function App() {
           Learn React
         </a>
         <Hello />
+        <p>username: {username}</p>
       </header>
     </div>
   );
