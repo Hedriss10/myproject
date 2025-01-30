@@ -74,7 +74,7 @@ No decorrer do desenvolvimento é bem normal lidamos com comparação sobre algu
 Ao longo deste repositório, irei continuar documentando os capítulos e aprofundando os estudos em React.js, cobrindo tópicos como:
 - Introdução ao react.js. ✅
 - Instalação de dependências. ✅
-- Fundamentos do jsx
+- Fundamentos do jsx ✅
 - Componentização e props.
 - Gerenciamento de estado com redux e context API.
 - Efeitos colaterais com userEffect.
