@@ -44,6 +44,32 @@ Essas ferramentas são essenciais para o desenvolvimento de aplicações escalá
 
 ---
 
+## 📖 Capítulo 3 - Fundamentos do jsx
+Neste capítulo aprendir os fundamentos de `.jsx` onde embora aprendemos a verdadeira perfomance do `.jsx`, como manipulação de estado de dooms com `JavaScript` embora seja mais complexo com o decorrer do desenvolvimento, aprendir lidar com boas práticas em manuseo de dados e suas estruturas.
+
+### 📒 Map e seu poder de escala
+`Map` é extremamente utilizando com `.jsx`, quando o assunto é lista de arrays embora seja bem utilizado, tem um certo meio ao desenvolver com `Map`, sempre sendo utilizando antes do retorno do `componets` do `react.js`.
+
+### 📒 Comentários em códigos jsx
+Comentários em `.jsx` é extremamente importante para o desenvolvimento do `frontend`, com isso deixa o código mais fácil para dar manutenção. Levando em consideração outros pontos tais como:
+
+- Finalidade ao criar as pastas
+- Finalidade ao criar o nome dos arquivos
+- Finalidade e clareza no fluxo de dados de entra e saída do `components`
+
+### 📒 Condição e comparação
+
+No decorrer do desenvolvimento é bem normal lidamos com comparação sobre alguma estrutura, neste caso com `react.js` eu me deparei com uma situação bem inovadora, comparação ternária isso é extremamente poderos em certos eventos tais como:
+
+ - Busca de dados em listas
+ - Verificação de dados com estruturas utilizando `JavaScript`
+ - Checagem condicional em booleanos `True` ou `False`
+
+
+---
+
+
+
 ## 🏆 Meus estudos com React.JS
 Ao longo deste repositório, irei continuar documentando os capítulos e aprofundando os estudos em React.js, cobrindo tópicos como:
 - Introdução ao react.js. ✅
