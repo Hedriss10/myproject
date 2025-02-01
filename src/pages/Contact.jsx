@@ -1,6 +1,7 @@
 import React from "react";
 import { useNavigate } from "react-router-dom";
 
+
 const Contact = () => {
     const navigate = useNavigate();
     const contactList = [
@@ -17,6 +18,7 @@ const Contact = () => {
         <div>
             <h1>Contact Page</h1>
             <button onClick={() => alert('clique')}>Click</button>
+            <h2>Contact List</h2>
             <ul>
                 {contactList.map((contact, index) => (
                     <li key={index}>
