@@ -38,6 +38,40 @@ Ferramenta para formatação automática de código, garantindo consistência e 
 ```bash
 npm install --save-dev prettier
 ```
+#### **Tailwind css**
+Ferramenta de estilização para ajuda no desenvolvimento.
+
+```bash
+npm install tailwindcss postcss autoprefixer
+```
+**talwind.config.cjs**:
+
+Configuarando o arquivo do talwind para processo interno.
+```bash
+module.exports = {
+  content: [
+    "./src/**/*.{js,jsx,ts,tsx}",
+  ],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+};
+```
+
+**postcss.config.cjs**
+
+Configurando o arquivo do postcss:
+```bash
+module.exports = {
+  plugins: {
+    tailwindcss: {},
+    autoprefixer: {},
+  },
+};
+```
+
+
 
 ### 🛠️ Benefícios  
 Essas ferramentas são essenciais para o desenvolvimento de aplicações escaláveis e facilitam a manutenção do código ao longo do tempo.  
