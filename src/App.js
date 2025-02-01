@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Header from "./components/Header";
 import Aside from "./components/Aside";
 import Home from "./pages/Home";
@@ -8,7 +8,6 @@ import Contact from "./pages/Contact";
 import ContactDetail from "./pages/ContactDetail";
 import Product from "./pages/Prodcut";
 import Profile from "./pages/Profile";
-
 
 function App() {
   return (
@@ -21,7 +20,7 @@ function App() {
           <Route path="/about" element={<About />} />
           <Route path="/contact" element={<Contact />} />
           <Route path="/profile" element={<Profile />} />
-          <Route path="/contact/:name" element={<ContactDetail/>} />
+          <Route path="/contact/:name" element={<ContactDetail />} />
           <Route path="/products" element={<Product />} />
         </Routes>
       </main>

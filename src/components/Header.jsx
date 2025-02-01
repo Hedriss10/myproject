@@ -21,6 +21,9 @@ const Header = () => {
           <li>
             <Link to="/profile">Profile</Link>
           </li>
+          <li>
+            <Link to="/ranktables">RankTables</Link>
+          </li>
         </ul>
       </nav>
     </header>
