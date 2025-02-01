@@ -1,31 +1,31 @@
-import React from 'react';
+import React from "react";
 
 const data = [
   {
-    end_term: '2023-12-31',
+    end_term: "2023-12-31",
     full_count: 100,
     id_table: 1,
-    name: 'Tabela 1',
-    rate: '5%',
-    start_term: '2023-01-01',
-    table_code: 'T001',
-    type_table: 'Tipo A',
+    name: "Tabela 1",
+    rate: "5%",
+    start_term: "2023-01-01",
+    table_code: "T001",
+    type_table: "Tipo A",
     banker_id: 123,
-    table: 'Mesa 1',
-    financial_agreements: 'Acordo 1',
+    table: "Mesa 1",
+    financial_agreements: "Acordo 1",
   },
   {
-    end_term: '2023-12-31',
+    end_term: "2023-12-31",
     full_count: 200,
     id_table: 2,
-    name: 'Tabela 2',
-    rate: '10%',
-    start_term: '2023-01-01',
-    table_code: 'T002',
-    type_table: 'Tipo B',
+    name: "Tabela 2",
+    rate: "10%",
+    start_term: "2023-01-01",
+    table_code: "T002",
+    type_table: "Tipo B",
     banker_id: 456,
-    table: 'Mesa 2',
-    financial_agreements: 'Acordo 2',
+    table: "Mesa 2",
+    financial_agreements: "Acordo 2",
   },
 ];
 

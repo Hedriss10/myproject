@@ -8,6 +8,7 @@ import Contact from "./pages/Contact";
 import ContactDetail from "./pages/ContactDetail";
 import Product from "./pages/Prodcut";
 import Profile from "./pages/Profile";
+import RankTables from "./pages/RankTables";
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
           <Route path="/about" element={<About />} />
           <Route path="/contact" element={<Contact />} />
           <Route path="/profile" element={<Profile />} />
+          <Route path="/ranktables" element={<RankTables />} />
           <Route path="/contact/:name" element={<ContactDetail />} />
           <Route path="/products" element={<Product />} />
         </Routes>
