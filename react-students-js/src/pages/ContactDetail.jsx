@@ -1,9 +1,8 @@
 import React from "react";
+import PropTypes from "prop-types"; // Importe PropTypes
 import { myListContact } from "./Contact";
 
-console.log(myListContact);
-
-// check age buy alcohol
+// Função para verificar a idade
 const contact = function (age = Number, name = String) {
   if (age >= 18) {
     return `${age} year old ${name} is allowed to buy alcohol.`;
@@ -12,7 +11,7 @@ const contact = function (age = Number, name = String) {
   }
 };
 
-// Componente head detais product
+// Componente DetailsContact
 const DetailsContact = function (props) {
   return (
     <div className="text-center">
@@ -22,7 +21,13 @@ const DetailsContact = function (props) {
   );
 };
 
-// Components principal
+// Validação de tipos para DetailsContact
+DetailsContact.propTypes = {
+  name: PropTypes.string.isRequired, // name deve ser uma string e é obrigatório
+  text: PropTypes.string.isRequired, // text deve ser uma string e é obrigatório
+};
+
+// Componente principal
 const ContactDetails = () => {
   return (
     <div className="text-center">
