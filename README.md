@@ -123,7 +123,7 @@ Ao longo deste repositório, irei continuar documentando os capítulos e aprofun
 - Introdução ao react.js. ✅
 - Instalação de dependências. ✅
 - Fundamentos do jsx ✅
-- Componentização e props.
+- Componentização e props. ✅
 - Gerenciamento de estado com redux e context API.
 - Efeitos colaterais com userEffect.
 - Rotas de navegação com react-route.
