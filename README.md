@@ -101,7 +101,21 @@ No decorrer do desenvolvimento é bem normal lidamos com comparação sobre algu
 
 
 ---
+## 📖 Capítulo 4 - Componentização e props
+Neste capítulo aprendir a desenvolver componentes robusto com agilidade para o desenvolvimento da aplicação tais como,
 
+ - Componentes e Props
+ - Componentes Funcionais
+ - Props no React
+ - Composição de Componentes
+ - Propriedade Children
+ - Default Props e Props Types
+ - Boas práticas na criação de componentes
+ - Comunicação entre componentes
+ - Componentes controlados e não controlados
+ - Resumo e práticas recomendadas
+
+Neste capítulo, conforme o listado os tópicos dentro do `react.js`, aprendendo a desenvolver com boas práticas e deixando á aplicação mais robusta.
 
 
 ## 🏆 Meus estudos com React.JS
