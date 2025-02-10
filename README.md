@@ -117,6 +117,12 @@ Neste capítulo aprendir a desenvolver componentes robusto com agilidade para o 
 
 Neste capítulo, conforme o listado os tópicos dentro do `react.js`, aprendendo a desenvolver com boas práticas e deixando á aplicação mais robusta.
 
+## 📖 Capítulo 4 - Gerenciamento de estado com useState
+Neste capítulo aprendir a gerenciar o estado do `useState`, gerenciando atualização do estado, podemos atualizar listas, com operadores de base.
+
+Lista de gerenciadores de estado do `react.js`
+- useState
+- useReduce
 
 ## 🏆 Meus estudos com React.JS
 Ao longo deste repositório, irei continuar documentando os capítulos e aprofundando os estudos em React.js, cobrindo tópicos como:
@@ -124,7 +130,7 @@ Ao longo deste repositório, irei continuar documentando os capítulos e aprofun
 - Instalação de dependências. ✅
 - Fundamentos do jsx ✅
 - Componentização e props. ✅
-- Gerenciamento de estado com redux e context API.
+- Gerenciamento de estado com useState ✅
 - Efeitos colaterais com userEffect.
 - Rotas de navegação com react-route.
 - Context API para gerenciamento global de estado.
