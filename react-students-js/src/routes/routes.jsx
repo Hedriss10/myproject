@@ -7,11 +7,9 @@ import Product from "../pages/Product";
 import ContactDetail from "../pages/ContactDetail";
 import Login from "../pages/Login";
 
-
 const AppRoutes = () => {
   return (
     <Routes>
-
       <Route path="/" element={<Login />} />
       <Route path="/home" element={<Home />} />
       <Route path="/about" element={<About />} />
